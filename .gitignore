@@ -1,0 +1,13 @@
+# Swap files from Vim editing
+*.swp
+
+# Compiled Object files
+*.o
+
+# Compiled static libraries
+*.a
+
+# Executables
+*.out
+*.exe
+*.app
